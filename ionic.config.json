@@ -1,0 +1,7 @@
+{
+  "name": "hallcortes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
